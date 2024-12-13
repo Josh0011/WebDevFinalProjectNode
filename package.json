@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "web-dev-final-project-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh0011/web-dev-final-project-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh0011/web-dev-final-project-node/issues"
+  },
+  "homepage": "https://github.com/Josh0011/web-dev-final-project-node#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
